@@ -117,7 +117,7 @@ include("functions/functions.php")
                    
                    <i class="fa fa-shopping-cart"></i>
                    
-                   <span>4 Items In Your Cart</span>
+                   <span> Items In Your Cart</span>
                    
                </a><!-- btn navbar-btn btn-primary Finish -->
                
