@@ -165,7 +165,7 @@ include("functions/functions.php")
        </div><!-- container Finish -->
        
    </div><!-- navbar navbar-default Finish -->
-   
+  <!--- 
    <div class='col-md-4 col-sm-6 center-responsive'>
                                 <div class='product'>
                                 
@@ -206,7 +206,7 @@ include("functions/functions.php")
                                 </div>
 </div>
    
-  <!---
+
   <div class='col-md-4 col-sm-6 center-responsive'>
                                 <div class='product'>
                                 
