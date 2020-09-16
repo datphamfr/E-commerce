@@ -1,4 +1,4 @@
-<?php lllllll
+<?php
     $active='Acceuil';
     include("includes/header.php")
 
